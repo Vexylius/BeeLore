@@ -1,0 +1,20 @@
+#####################################
+#              BeeLore              #
+# Stuff that needs to be done here  #
+#####################################
+#Prefixes:							#
+# "!" - High priority				#
+# ">" - Normal priority				#
+# ")" - Low priority				#
+#Example:							#
+#>Justify the existence of skeleton #
+#race on lavaland //On it -Vexylius #
+#####################################
+
+!Gather EVERYTHING lorelike from the game code and put it here (In this repo, maybe in a separate folder)
+
+>Make a separate folder for NSV lore (Preferably as a collection of links)
+ >Put NSV lore in the NSV lore folder
+ 
+!Make some writing guidelines for this project
+ !Put some guidelines them in those readme.txt files and write what's supposed to be in those folders
