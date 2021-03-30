@@ -1,3 +1,32 @@
-####################
-# Work in progress #
-####################
+# Work in progress, guidelines are currently subject to change #
+# Last Edited by CraftmasterMatt #
+
+--- BASIC FORMATTING GUIDELINES ---
+
+1. Before writing anything down, make sure you know what sort of document you're going to be writing.
+Is this going to be a message from Centcom? A recorded declaration of war from Nuclear Operatives?
+The random scribblings of a space hobo squatting in maintenance, eating rats and looking for assistants to try and murder?
+
+2. Once you know what sort of document you're going to be writing, take a look at either other documents here for inspiration
+(note, consider making formatting templates for important things like Centcom or syndicate reports) or documents of a similar nature.
+
+3. Follow the formatting, but in general, please consider the following.
+
+	A. Make sure to proofread important documents to avoid potential typos or misuse of technical terms
+	B. Make sure to use appropriate grammar and punctuation for the type of document being written
+	(A friendly note between crew members should be casual, a report from the Captain to Centcom should -not- barring Bunny Ears Lawyering)
+	C. Make sure that it -makes sense- unless it's -NOT- supposed to.
+
+4. A grasp of tropes and writing is encouraged, but is not mandatory. Remember, the higher quality your writing is, the more likely it is to be made canon.
+
+--- DIALOG ---
+
+1. Try and follow SS13's chat log formatting as much as possible. For example:
+
+	A. If the conversation happens over a radio channel, make sure to indicate -which channel the conversation is taking place on.-
+	(e.g. [Common], [Supply], [AI Private], Etc...)
+	B. Make sure to indicate who is speaking. Remember that someone without an ID will always show up as 'Unknown',
+	but someone who doesn't have a syndicate mask or other means of disguising their voice will have their true identity show up.
+	(e.g. Flinten Steele as Unknown, Hoshi Shirogane as Flinten Steele, etc...)
+	
+# TO DO: Gather formatting examples from SS13 chat #
