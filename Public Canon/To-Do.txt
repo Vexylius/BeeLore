@@ -1,0 +1,6 @@
+### TO DO ###
+
+!Assemble complete list of factions
+ !Write detailed lore pages about each faction
+ >Determine each faction's motivations, goals, and relations with NT
+
