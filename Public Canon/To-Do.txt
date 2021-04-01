@@ -2,5 +2,10 @@
 
 !Assemble complete list of factions
  !Write detailed lore pages about each faction
- >Determine each faction's motivations, goals, and relations with NT
+	(NOT in story format- there needs to be a 'History of [FACTION] with their chronology and important events.)
+ 
+ >Determine each faction's basic motivations, goals, and relations with Nanotrasen
+ >Determine if there are factions that have relations with each other
+ (E.G. The Clockwork Cult of Ratvar and the Blood Cult of Nar'sie)
+
 

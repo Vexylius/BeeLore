@@ -18,3 +18,11 @@
  
 !Make some writing guidelines for this project
  !Put some guidelines them in those readme.txt files and write what's supposed to be in those folders
+	// Work in Progress. -CraftmasterMatt
+
+!Flesh out Factions information.
+  >Determime relations between factions
+  >Determine faction motivations
+  >Determion faction chronology/timeline of events
+  
+!Set concrete timeline (What time do the events of the game take place?)
