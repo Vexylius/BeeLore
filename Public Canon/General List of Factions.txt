@@ -1,0 +1,62 @@
+--- GENERAL LIST OF FACTIONS ---
+
+This list encompasses general information about the various factions of Beestation's Lore.
+If a faction is added to the lore, make sure to add them to the list.
+
+--- NANOTRASEN ---
+
+A group of some sort with interest in researching advanced technologies.
+Their current focus is on a strange material known as Plasma.
+To this end, they have dedicated resources to research of Plasma, including at least one space station.
+There are many who seek to exploit them for various reasons.
+
+
+--- THE SYNDICATE ---
+
+Intel on the organization that refers to themselveas as 'The Syndicate' is sparse and often conflicting.
+Some intelligence claims that they are a privatized union, others claim that they are a separate, rival megacorporation.
+
+The only confirmed intel is this; they have sleeper agents that have infiltrated Nanotrasen in nearly every department,
+awaiting their orders. Such commands may be something as simple as stealing documents or objects, while other objectives may include assassintation of personnel.
+They also have dedicated Nuclear Operatives, heavily armed and with a single-minded dedication to obtaining one of Nanotrasen's nuclear authentication disks
+in order to detonate a nuclear bomb aboard the station, and they are willing to ruthlessly and brutally cleave a path through anyone and anything that gets in their way.
+
+One thing is clear; they are the sworn enemies of Nanotrasen, and they are dedicating every resource at their disposal toward its destruction.
+
+
+--- CHANGELINGS ---
+
+Changelings are an alien race known for their incredible stealth and lethality.
+Utilizing their ability to copy genetic information and become a spitting image of whomever they have copied, they are often used as infiltrators
+by the Syndicate; but other factions may make use of them as well, and some changelings may oppose Nanotrasen for reasons of their own.
+
+Their unique anatomy and their incredible regenerative abilities makes them a force to be reckoned with; the mere mention
+of Changelings or 'lings' is enough to sow panic and mistrust among the crew.
+
+
+--- THE WIZARD FEDERATION ---
+
+The mysterious force referred to as 'magic' has perplexed many scientists since its discovery.
+Details about this strange and seemingly logic defying power are scarce.
+Those who are most knowledgable in regards to magic and it's usage belong to the Wizard Federation.
+
+--- THE BLOOD CULT OF NAR'SIE ---
+
+A group of fanatical cultists who seek to bring their deity, an eldritch entity known as Nar'Sie,
+through the veil and into our universe by means of bloody rituals and forcible conversion.
+
+They are constantly at odds with an opposing cult known as the Clockwork Cult of Ratvar.
+
+--- THE CLOCKWORK CULT OF RATVAR ---
+
+A group of fanatical cultists who seek to bring their deity, an eldritch entity known as Ratvar,
+through the veil and into our universe by means of mechanical interference and forcible conversion.
+
+They are constantly at odds with an opposing cult known as the Blood Cult of Nar'Sie.
+
+--- THE ABDUCTORS ---
+
+The Abductors are a telepathic alien race interested in experimentation.
+Unfortunately, their lack of knowledge of common galactic customs means they have no concept of 'consent'
+and often abduct unwilling crewmembers to experiment on.
+
